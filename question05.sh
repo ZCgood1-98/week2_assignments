@@ -1,2 +1,0 @@
-mkdir dir1 && cd dir1 && touch file2.txt && cd ..
-git add dir1
