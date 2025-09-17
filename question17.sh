@@ -30,6 +30,8 @@ rm dir3/bar
 
 touch dir3/newfile2
 
+mv dir3/ dir1/dir3
+
 git add .
 
 git commit -m "change in branch2"
